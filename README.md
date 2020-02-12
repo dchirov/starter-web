@@ -19,4 +19,4 @@ This is a simple web project, deployment can be on any web server or even local 
 Please fork this repository and them issue Pull Requests for review.
 
 ### Copyright
-Copyright Notice
+Copyright Notice. All rights reserved.
